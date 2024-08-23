@@ -49,12 +49,12 @@ Os códigos fornecidos medem o tempo necessário para calcular ``a^b mod n`` usa
 
 1. **Clone o Repositório**:
    ```bash
-   git clone https://github.com/celsoseu-usuario/este-repositorio.git
+   git clone https://github.com/celsorv/exponenciacao-modular.git
    ```
 
 2. **Navegue até o Diretório do Repositório:**
     ```bash
-    cd seu-repositorio
+    cd exponenciacao-modular
     ```
 
 3. **Execute os Scripts Python:**
