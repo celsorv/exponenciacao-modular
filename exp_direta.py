@@ -24,4 +24,7 @@ result = direct_modular_exponentiation(a, b, n)
 
 end_time = time.time()
 print(f"\n{a}^{b} mod {n} = {result}")
-print(f"Tempo de execução (abordagem direta): {end_time - start_time:.6f} segundos\n")
+print(f"Tempo de execução: {end_time - start_time:.6f} segundos\n")
+
+# Output on a Core i7-3930K CPU @ 3.20GHz
+# Execution time: 8.615234 seconds
